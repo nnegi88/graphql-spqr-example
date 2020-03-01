@@ -1,0 +1,14 @@
+graphql:
+  spqr:
+    gui:
+      enabled: true
+
+
+service:
+  json-placeholder:
+    url: https://jsonplaceholder.typicode.com
+
+management:
+  endpoint:
+    env:
+      enabled: true
